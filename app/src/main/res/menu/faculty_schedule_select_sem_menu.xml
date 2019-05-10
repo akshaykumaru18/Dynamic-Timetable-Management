@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/sem_1"
+        android:title="Semester 1">
+        Semester 1</item>
+
+    <item android:id="@+id/sem_2"
+        android:title="Semester 2">
+        Semester 2
+    </item>
+
+    <item android:id="@+id/sem_3"
+        android:title="Semester 3">
+        Semester 3
+    </item>
+
+    <item android:id="@+id/sem_4"
+        android:title="Semester 4">
+        Semester 4
+    </item>
+
+    <item android:id="@+id/sem_5"
+        android:title="Semester 5">
+        Semester 5
+    </item>
+
+    <item android:id="@+id/sem_6"
+        android:title="Semester 6">
+        Semester 6
+    </item>
+</menu>

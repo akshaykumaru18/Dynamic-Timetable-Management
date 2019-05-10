@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/relativeLayout"
+    >
+    <EditText
+        android:id="@+id/faculty_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="62dp"
+        android:ems="10"
+        android:hint="Faculty Name"
+        android:inputType="text|textPersonName" />
+
+    <EditText
+        android:id="@+id/faculty_phoneNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/faculty_name"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="142dp"
+        android:ems="10"
+        android:hint="Contact Number"
+        android:inputType="text|phone" />
+
+    <EditText
+        android:id="@+id/faculty_emailid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/faculty_phoneNumber"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="223dp"
+        android:ems="10"
+        android:hint="Email Id"
+        android:inputType="text|textEmailAddress" />
+
+    <Spinner
+        android:id="@+id/faculty_department"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/faculty_emailid"
+        android:layout_marginTop="25dp"
+        android:ems="10"
+        android:hint="Department"
+        android:inputType="textPersonName" />
+
+</RelativeLayout>

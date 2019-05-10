@@ -1,0 +1,165 @@
+<resources>
+
+
+    <string name="app_name">Dynamic Timetable</string>
+
+    <string name="selected_faculty">SELECTED_FACULTY</string>
+    <!-- Firebase node-->
+    <string name="semester_node">semesters</string>
+    <string name="timetable_node">timetable</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+    <string name="semester1">semester1</string>
+    <string name="semester2">semester2</string>
+    <string name="semester3">semester3</string>
+    <string name="semester4">semester4</string>
+    <string name="semester5">semester5</string>
+    <string name="semester6">semester6</string>
+
+    <string name="subjects">subjects</string>
+    <string name="unitName">chapterName</string>
+    <string name="syllabus">syllabus</string>
+    <string name="subject_name">subject_name</string>
+
+    <string name="sem1">SEMESTER 1</string>
+    <string name="sem2">SEMESTER 2</string>
+    <string name="sem3">SEMESTER 3</string>
+    <string name="sem4">SEMESTER 4</string>
+    <string name="sem5">SEMESTER 5</string>
+    <string name="sem6">SEMESTER 6</string>
+
+    <!-- Hod Layout-->
+    <string-array name="Main">
+        <item>Timetable</item>
+        <item>Subjects</item>
+        <item>Faculty</item>
+        <!--<item>Faculty Timetable</item> -->
+        <!--  <item>Configure</item> -->
+    </string-array>
+
+    <string-array name="Description">
+        <item>Timetable</item>
+        <item>Subjects of Courses</item>
+        <item>Faculty List</item>
+      <!--  <item>Todays Schedule</item> -->
+        <!-- <item>Add Timetable</item> -->
+    </string-array>
+
+    <!-- Hod Layout-->
+
+    <!-- Student Layout-->
+    <string-array name="Student_Main">
+        <item>Timetable</item>
+    </string-array>
+
+    <string-array name="Student_Description">
+        <item>Timetable</item>
+    </string-array>
+
+    <!-- Student Layout-->
+
+    <!-- Lecturer Layout-->
+    <string-array name="Lecturer_Main">
+        <item>Timetable</item>
+        <item>Faculty Timetable</item>
+    </string-array>
+
+    <string-array name="Lecturer_Description">
+        <item>Timetable</item>
+        <item>Todays Schedule</item>
+    </string-array>
+    <!-- Lecturer Layout-->
+
+    <string-array name="semester">
+        <item>SEMESTER 1</item>
+        <item>SEMESTER 2</item>
+        <item>SEMESTER 3</item>
+        <item>SEMESTER 4</item>
+        <item>SEMESTER 5</item>
+        <item>SEMESTER 6</item>
+    </string-array>
+
+    <string-array name="odd_semester">
+        <item>SEMESTER 1</item>
+        <item>SEMESTER 3</item>
+        <item>SEMESTER 5</item>
+    </string-array>
+
+    <string-array name="even_semester">
+        <item>SEMESTER 2</item>
+        <item>SEMESTER 4</item>
+        <item>SEMESTER 6</item>
+    </string-array>
+
+
+    <string-array name="Week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+
+
+    <string-array name="slots">
+        <item>8 - 9</item>
+        <item>9 - 10</item>
+        <item>10 - 11</item>
+        <item>11 - 12</item>
+        <item>12 - 1</item>
+        <item>1 30 - 2 30</item>
+        <item>2 30 - 3 30</item>
+        <item>3 30 - 4 30</item>
+
+    </string-array>
+
+
+
+    <string-array name="faculty_details">
+        <item>google</item>
+        <item>888888888</item>
+        <item>google@gmail.com</item>
+        <item>Computer Science and Engineering</item>
+    </string-array>
+
+    <string-array name="departments">
+        <item>AUTOMOBILE ENGINEERING</item>
+        <item>CERAMICS</item>
+        <item>CHEMICAL ENGINEERING</item>
+        <item>CIVIL ENVIRONMENTAL ENGINEERING</item>
+        <item>CIVIL ENGINEERING</item>
+        <item>COMPUTER SCIENCE AND ENGINEERING</item>
+        <item>ELECTRICAL AND ELECTRONICS ENGINEERING</item>
+        <item>MECHANICAL WELDING AND SHEET METAL</item>
+        <item>ELECTRONICS AND COMMUNICATION ENGG</item>
+        <item>MACHINE TOOL TECHNOLOGY</item>
+        <item>MECHANICAL ENGINEERING</item>
+        <item>INSTRUMENTATION</item>
+        <item>MECHATRONICS</item>
+        <item>HEAT POWER ENGINEERING</item>
+        <item>SCIENCE AND HUMANITY</item>
+    </string-array>
+
+    <string name="AUTOMOBILE_ENGINEERING">AUTOMOBILE ENGINEERING</string>
+    <string name="CERAMICS">CERAMICS</string>
+    <string name="CHEMICAL_ENGINEERING">CHEMICAL ENGINEERING</string>
+    <string name="CIVIL_ENVIRONMENTAL_ENGINEERING">CIVIL ENVIRONMENTAL ENGINEERING</string>
+    <string name="CIVIL_ENGINEERING">CIVIL ENGINEERING</string>
+    <string name="COMPUTER_SCIENCE_AND_ENGINEERING">COMPUTER SCIENCE AND ENGINEERING</string>
+    <string name="ELECTRICAL_AND_ELECTRONICS_ENGINEERING">ELECTRICAL AND ELECTRONICS ENGINEERING</string>
+    <string name="MECHANICAL_WELDING_AND_SHEET_METAL">MECHANICAL WELDING AND SHEET METAL</string>
+    <string name="ELECTRONICS_AND_COMMUNICATION_ENGG">ELECTRONICS AND COMMUNICATION ENGG</string>
+    <string name="MACHINE_TOOL_TECHNOLOGY">MACHINE TOOL TECHNOLOGY</string>
+    <string name="MECHANICAL_ENGINEERING">MECHANICAL ENGINEERING</string>
+    <string name="INSTRUMENTATION">INSTRUMENTATION</string>
+    <string name="MECHATRONICS">MECHATRONICS</string>
+    <string name="HEAT_POWER_ENGINEERING">HEAT POWER ENGINEERING</string>
+    <string name="SCIENCE_AND_HUMANITY">SCIENCE AND HUMANITY</string>
+
+
+</resources>

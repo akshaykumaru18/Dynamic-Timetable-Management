@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/even_sem"
+        android:title="Even Sem"
+        app:showAsAction="never"
+        android:orderInCategory="1">
+    </item>
+
+    <item
+        android:id="@+id/odd_sem"
+        android:title="Odd Sem"
+        app:showAsAction="never"
+        android:orderInCategory="2">
+    </item>
+
+    <item
+        android:id="@+id/logout"
+        android:title="Log Out"
+        android:orderInCategory="3"
+        app:showAsAction="never"/>
+
+</menu>

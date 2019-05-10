@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="MissingDefaultResource">
+
+    <!--
+    <EditText
+        android:id="@+id/subject_name"
+        android:layout_width="match_parent"
+        android:layout_height="57dp"
+        android:layout_alignStart="@+id/subject_name"
+        android:layout_alignLeft="@+id/subject_code"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="-8dp"
+        android:layout_marginTop="17dp"
+
+        android:ems="10"
+        android:hint="Subject name"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/subject_code"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/subject_name"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp"
+
+        android:ems="10"
+        android:hint="Subject code"
+        android:inputType="textPersonName" />
+
+
+
+    <EditText
+        android:id="@+id/number_of_Units"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="225dp"
+
+        android:ems="10"
+        android:hint="Units"
+        android:inputType="number" />
+        -->
+
+    <Spinner
+        android:id="@+id/spinner3"
+        android:layout_width="231dp"
+        android:layout_height="56dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="9dp" />
+
+    <Spinner
+        android:id="@+id/faculty_Spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="72dp" />
+
+    <Spinner
+        android:id="@+id/subjectSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="119dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginRight="0dp" />
+
+
+</android.widget.RelativeLayout>

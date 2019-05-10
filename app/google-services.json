@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "958961739233",
+    "firebase_url": "https://dynamic-timetable-7ec4d.firebaseio.com",
+    "project_id": "dynamic-timetable-7ec4d",
+    "storage_bucket": "dynamic-timetable-7ec4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958961739233:android:cdd585ad978db478",
+        "android_client_info": {
+          "package_name": "com.example.akshay.timetable888"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958961739233-elodjr8g3vcd2l2ec4h6p1kkn4dij5uu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akshay.timetable888",
+            "certificate_hash": "2c7666f6f39c2a7fc80214c1bf590ec721f49076"
+          }
+        },
+        {
+          "client_id": "958961739233-96kh6n5mnhq8ghihog5iqj6tnrvne4cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkNCYQzgIxe6jZ6zrKhlf5PYFOExKgyAQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958961739233-96kh6n5mnhq8ghihog5iqj6tnrvne4cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
