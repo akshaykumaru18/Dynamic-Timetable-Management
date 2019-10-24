@@ -7,6 +7,7 @@ To Develop this application I have used
 
 ###### **Firebase** for Real-time Database , Email Password Authentication 
 
-###### **Android studio**
+###### **Android studio** 
+####**Language used : JAVA**
 
 *Push Notification feature is on the way*
